@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+dist/
+tmp/
+out-tsc/
+
+# Angular specific
+.angular/
+
+# Generated files
+coverage/
+*.sass-cache/
+*.scss-cache/
+*.css.map
+*.css
+*.js.map
+*.js
+*.d.ts
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Angular service worker
+ngsw-config.json
+ngsw-worker.js
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
